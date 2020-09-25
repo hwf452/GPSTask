@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1e273ac9ed80c4d024e51fd131f512112d0a34f0.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_fe73defd22f6baa2124e6d9df2bfae654f870788.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_840c7827692487dfa012da6040cc4635577216a1.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.2.0/6be858a75633b1f0a2d24cad740db57775cb6871/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_9fec1760dca55c0c21a79214c8475aecfd8b71ae.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_100ac68864111f1497e018a5d7ac383adf6f4d33.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_f56a79960f9121e96e59f412b5dc5778e64ba80a.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_76d0fae0c971195cf46772b70b3a89d638a56091.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_dfcc1ed807302f4a427e4c8e5c3fda4ffb0bbd6b.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_eca83b606154ab98380f542d14f569a0b21ad17c.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_965a1eea51cc6c0bfa36868274ef5f26a1127d4e.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_e04ebd1b51ef247a4df970dd656f7aafa7a7479b.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_62caa1fb3acbdc7b555050fd80b957e47539d761.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_7369fcefa53ad2667e9af903bfb36c7e2a15a39b.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_c29b56787ae293f47dfb8cf25ec89e2a21eeb682.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_cb28a259a66f38d640660ffca7443b9bed50d9e0.jar" />
+    </item>
+    <item
+        jar="/Users/skyinno/GPSTask/app/build/intermediates/exploded-aar/com.github.k0shk0sh/PermissionHelper/1.0.13/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e44846013f2b8eeb8d1eff0dc5dd7bc8b3259545">
+        <dex dex="/Users/skyinno/GPSTask/app/build/intermediates/pre-dexed/debug/com.github.k0shk0sh-PermissionHelper-1.0.13_b2f9fbde7dcf2949d876545a989cb7a60f45812d.jar" />
+    </item>
+
+</items>
